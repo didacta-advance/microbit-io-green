@@ -1,0 +1,13 @@
+{
+    "name": "microbit-io-green",
+    "version": "0.0.1",
+    "dependencies": {
+        "core": "*"
+    },
+    "description": "",
+    "files": [
+        "main.ts",
+        "README.md"
+    ],
+    "public": true
+}
